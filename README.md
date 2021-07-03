@@ -1,2 +1,2 @@
 # GuruGroupBild
-# Fast Check
+# Fast Check https://gurudeploy.netlify.app/
